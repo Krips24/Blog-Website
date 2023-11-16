@@ -1,4 +1,5 @@
 
+
 # Daily Journal
 
 Welcome to our Blog Website! This website is built using JavaScript and EJS (Embedded JavaScript) to deliver a dynamic and user-friendly blogging experience. With a combination of powerful technologies, we've created a platform that allows you to effortlessly read and create blog posts, making your interaction with our content both engaging and seamless.
